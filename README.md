@@ -12,21 +12,21 @@ The datasets used for this project include:
 `covidvaccinations`: Provides data on COVID-19 vaccinations by location and date.
 Queries Overview 
 
-`Total Cases vs. Total Deaths`:  Compares total cases and total deaths to calculate the death percentage for a specific location, such as India.
+**1) Total Cases vs. Total Deaths**:  Compares total cases and total deaths to calculate the death percentage for a specific location, such as India.
 
-`Total Cases vs. Population`:  Calculates the percentage of the population infected by COVID-19 for a specific location, such as India.
+**2) Total Cases vs. Population**:  Calculates the percentage of the population infected by COVID-19 for a specific location, such as India.
 
-`Countries with Highest Infection Rate`:  Identifies countries with the highest infection rates relative to their population.
+**3) Countries with Highest Infection Rate**:  Identifies countries with the highest infection rates relative to their population.
 
-`Countries with Highest Death Count`:  Lists countries with the highest death counts due to COVID-19.
+**4) Countries with Highest Death Count**:  Lists countries with the highest death counts due to COVID-19.
 
-`Continents with Highest Death Count`:  Highlights continents with the highest death counts from COVID-19.
+**5) Continents with Highest Death Count**:  Highlights continents with the highest death counts from COVID-19.
 
-`Global Numbers`:  Provides global statistics on total cases, total deaths, and the death percentage.
+**6) Global Numbers**:  Provides global statistics on total cases, total deaths, and the death percentage.
 
-`Population vs. Vaccination`: Analyzes the relationship between population and vaccination rates, including the percentage of vaccinated people.
+**7) Population vs. Vaccination**: Analyzes the relationship between population and vaccination rates, including the percentage of vaccinated people.
 
-`Population vs. Vaccination (Temp Table Method)`: Utilizes temporary tables to perform the same analysis as the previous query.
+**2) Population vs. Vaccination (Temp Table Method)**: Utilizes temporary tables to perform the same analysis as the previous query.
 Usage
 
 These SQL queries can be executed in SQL environments such as MySQL Workbench, PostgreSQL, or any other SQL-compatible tool. Users can modify the queries as needed to analyze specific regions, timeframes, or metrics of interest.
