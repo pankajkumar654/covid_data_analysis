@@ -1,4 +1,5 @@
 #COVID-19 Analysis SQL Project
+
 Introduction
 This project encompasses a series of SQL queries designed to analyze COVID-19 data. The queries aim to extract valuable insights from datasets containing information such as total cases, total deaths, population, vaccinations, and more.
 
