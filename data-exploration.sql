@@ -118,11 +118,3 @@ select cd.continent ,cd."location" ,cd."date",cd.population ,cv.new_vaccinations
 
 select *,(1.0*RollingPeopleVaccinated::int/population)*100 as VaccinatedPeoplePercentage
 from vaccine;
-
-
-
-
-
--- create view to store data for later visualizations
-
---crete view populationpercentage
